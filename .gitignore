@@ -3,14 +3,12 @@
 *.dSYM
 *.csv
 *.out
-*.png
 *.so
 *.exe
 *.dll
 *.lib
 *.dylib
 mnist/
-data/
 caffe/
 grasp/
 images/
