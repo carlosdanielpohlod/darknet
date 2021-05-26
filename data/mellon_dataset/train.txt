@@ -1,0 +1,2 @@
+/content/darknet/data/mellon_dataset/DJI_0017.JPG
+/content/darknet/data/mellon_dataset/DJI_0039.JPG
