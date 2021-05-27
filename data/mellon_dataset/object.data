@@ -1,5 +1,5 @@
 classes=1
-train = /content/darknet/data/mellon_datasettrain.txt
-valid = /content/darknet/data/mellon_datasettest.txt
-names = /content/darknet/data/mellon_datasetobj.names
-backup = /content/darknet/data/mellon_datasetbackup/
+train = /content/darknet/data/mellon_dataset/train.txt
+valid = /content/darknet/data/mellon_dataset/test.txt
+names = /content/darknet/data/mellon_dataset/obj.names
+backup = /content/darknet/data/mellon_dataset/backup/
