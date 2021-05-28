@@ -2,4 +2,4 @@ classes=1
 train = /content/darknet/data/mellon_dataset/train.txt
 valid = /content/darknet/data/mellon_dataset/test.txt
 names = /content/darknet/data/mellon_dataset/obj.names
-backup = /content/darknet/data/mellon_dataset/backup/
+backup = /content/darknet/data/mellon_dataset/backup
